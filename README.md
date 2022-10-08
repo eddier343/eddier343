@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on forfeit.app<br>🌱 I’m currently learning a mix of Dart for Flutter app development and Java.<br>💬 Ask me about anything to do with creating Flutter applications!<br>⚡ Fun fact - Python was my first programming language!
+🔭 I’m currently working on my startup<br>🌱 I’m currently learning a mix of Dart for Flutter app development and Java.<br>💬 Ask me about anything to do with creating Flutter applications!<br>⚡ Fun fact - Python was my first programming language!
 
 
 # 💻 Tech Stack:
